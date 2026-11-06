@@ -1,6 +1,5 @@
 # Flappy-Bird
 HTML5
-CSS
 JavaScript
 
 Funcionalidades:
